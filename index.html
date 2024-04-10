@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="chapter">
+        <a onclick="Capitolo(id)" id="meno">
+            &#8722;
+        </a>
+        <span class="capitolo"></span>
+        <a onclick="Capitolo(id)" id="plus">
+            &plus;
+        </a>
+    </div>
+    <div id="text"></div>
+    <div class="chapter">
+        <a onclick="Capitolo(id)" id="meno">
+            &#8722;
+        </a>
+        <span class="capitolo"></span>
+        <a onclick="Capitolo(id)" id="plus">
+            &plus;
+        </a>
+    </div>
+    <script>
+        
+        let num_cap = 1;
+
+        let cap_number_show = document.getElementsByClassName('capitolo');
+
+
+        function UpdateNumber(){
+            for(i = 0;i < cap_number_show.length;i++){
+            cap_number_show[i].innerHTML = num_cap;
+            }
+        }
+
+        function Capitolo(id){
+            
+            if(id == "meno" && num_cap > 1){
+                num_cap--;
+                TextCapitolo(num_cap);
+            }else if(id == "plus"){
+                num_cap++;
+                TextCapitolo(num_cap);
+            }
+
+            UpdateNumber();
+
+        }
+
+        function TextCapitolo(Page){
+            
+            let file = `./filetxt/capitolo${Page}.txt`;
+
+            fetch(file)
+                .then(function (res) {
+                    return res.text();
+                })
+                .then(function (data) {
+                    document.getElementById('text').innerHTML = data;
+                });
+        }
+
+        TextCapitolo(num_cap);
+        UpdateNumber();
+
+    </script>
+</body>
+</html>

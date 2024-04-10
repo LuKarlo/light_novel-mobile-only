@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <div id="head"></div>
     <div class="chapter">
         <a onclick="Capitolo(id)" id="meno">
             &#8722;
@@ -18,11 +19,11 @@
     </div>
     <div id="text"></div>
     <div class="chapter">
-        <a onclick="Capitolo(id)" id="meno">
+        <a href="#head" onclick="Capitolo(id)" id="meno">
             &#8722;
         </a>
         <span class="capitolo"></span>
-        <a onclick="Capitolo(id)" id="plus">
+        <a href="#head" onclick="Capitolo(id)" id="plus">
             &plus;
         </a>
     </div>

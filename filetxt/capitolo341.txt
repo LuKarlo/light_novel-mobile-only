@@ -1,0 +1,281 @@
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "What, a hidden passage!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Are you okay with this? Is there anything out there?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "This stuff is in this forest!? I've lived here forever and I didn't know it...."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "It's scary, it's scary!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Scared elves in front of a dark staircase.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And we were surprised at ourselves.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Seriously... awesome..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... I didn't know this stuff was hidden..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Oniichan, Marukura... gu"
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Fu, huh. It's cowardly to hold on to oniisan in such a state of fear... right? Oniisan."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... elementary students and the Demon King army weren't very familiar with the land either... not only did the elves live there, but even this hidden passage..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ What the hell's going on out there? No, what's behind this?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I thought so....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "It's okay. There's nothing back here. The stairs aren't that deep. If you go to the bottom, you'll just go out to the bigger square. Oh, be careful not to fall down the stairs. Please check the number of people when everyone gets down."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The chief went down the stairs with Stasta without warning.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hey, chief!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hey, you, wait!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ In the meantime, I don't suppose there's any danger from the chief's appearance.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I don't know what's going on anymore, but for now, we decided never to go down the stairs.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... this wall..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Traina?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... I see... I can't destroy it with so much force... I can't believe this stuff really happened..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ On the way down the stairs, Trainer has a difficult look on her face, such as ceilings and walls.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ That's all, it's not normal.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Oniisan, if there is anything you want to use in the future, you should remember that. It's up to oniisan to abuse it..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I hear the chief going to the top.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Misuse... yes, such a hidden passage... and if the technology behind it is real, then misuse it is definitely a threat.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The threat is that neither the Demon Kings nor the Allies knew about the existence here at the time... nor Traynor nor Father at the time.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ That means there's a secret that most people in the world don't know about.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Yes, we're here."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Ah! Ah... oh, spacious..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ At the end of the stairs, there is a spacious and deadly space.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It's square enough to accommodate fewer than a hundred of us, and the center of the room is engraved with a pattern I've never seen before.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Wow, what is it? Here...."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "You... are nothing!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... I don't feel any magic... My lord... do you really have the power to transform this place?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Everyone looks at the room, but it's just dim and brilliant.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ There's really such power in this place.....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Oniichan, something's shining.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Huh? Ah... the master key..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hmm, what!? Oniisan, are you okay!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Espi told me, and I noticed.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The master key is emitting light.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Like the entrance, what resonates here?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Ah, don't worry, oniisan. Just like the entrance, the device reacted properly."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But the chief doesn't seem to have a particular problem if it's nothing....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Ah," said Gate activation. Forwarded to [laboratory headquarters]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Command and Bimaster Key Confirmation]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "" "" "" Whoa, whoa!!??
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And then I heard that voice again.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Tsuka, chief! Whatever you do, at least explain what happens! I know you're surprised!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Yes, you!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Ah, I almost protected myself with magic...."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The chief is pale, but for us, one by one is surprisingly bad for our hearts.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Note that for headquarters heno transfer (c) security, passcode games are required. Passcodes
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Ah... Passcode to HQ... Speaking of which, I needed it... but the password to the entrance is still the same... 'Passcode: 4545072'!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Authenticate passcode. System Startup Simus
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... it hasn't changed... it's really texturing..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But still, the chief responded to the voice of someone who wasn't in front of him as if he were working indifferently, and....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Wow, what is it!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hee, the room... the walls are glowing around!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Well, what's going on!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Something went wrong in the room.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ No, not the room. Our eyes?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Suddenly, the wall in front of you looks like it's spinning at a high speed, and various lights are illuminated in even darker spaces, and you don't know what's going on anymore.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Traina, is this okay?!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "... transfer magic is different from principle... but twisting space-time... without using magic..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ If only there were!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I asked Trayna if she was okay, but she nodded with interest with a serious face.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ With this state of affairs, it seems that the current situation is also fine....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hmm? Ah, it's spinning..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Then, the phenomenon of gradually turning around the room landscape will subside, and the light will disappear, so we... hmm?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "What? Hey, oniichan... here..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Huh? The view of the room has changed a little!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "It's true... and there's a door in the corner of the room!? There shouldn't have been anything like that!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Well, what's going on, chief!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ If you think the strange phenomenon has subsided, has the room changed?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Then the chief laughed bitterly....
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "I told you. Warp. This is not the forest we lived in anymore. It's in the basement of Sisonotami."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "" "" "" Hmm!!?? "" "
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Huh!? This is it!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Hmm... eh? Chief, wait a minute! No way, now that we're... moving?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "Yeah, we'll get out of here once we're on the ground, and then we'll move on land, but I think we can make it a lot shorter."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "That's a lie..."
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Sure, we talked about how we could warp with a transporter.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But in the meantime, what about us?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ No, the warp that is convincing if it is called magic, and I don't feel any magic in this situation, even if it is said that the warp is over, I am not convinced.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ "In the meantime, let's see if it's a lie on the ground. There's a direct elevator on the ground... it's like a karakuri that can go up to the ground... Ah, but I'm afraid there's an army of demon kings... In the meantime, should we go and see what happens first, just me and my brothers?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ That's what he said, led by the chief in his confusion, and included me, Espi, Slaya, and Ralwyev to see how the five of us were on the ground.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Something's forcing me up from my feet on a suddenly rising floor... no. I don't know anything anymore.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Besides, there seems to be a considerable distance to the ground, and even my radar doesn't know what it looks like on the ground.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Is this really Sisonotami?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I don't know. If I get out on the ground in such a state of chaos...
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+</div>

@@ -29,7 +29,13 @@
     </div>
     <script>
         
-        let num_cap = 1;
+        let num_cap = localStorage.getItem("ls_num_cap");
+
+        if(num_cap == null){
+            num_cap = 1;
+        }else{
+            num_cap = localStorage.getItem("ls_num_cap");
+        }
 
         let cap_number_show = document.getElementsByClassName('capitolo');
 
@@ -45,9 +51,13 @@
             if(id == "meno" && num_cap > 1){
                 num_cap--;
                 TextCapitolo(num_cap);
+                localStorage.setItem("ls_num_cap",num_cap);
+                console.log(localStorage.getItem("ls_num_cap"))
             }else if(id == "plus"){
                 num_cap++;
                 TextCapitolo(num_cap);
+                localStorage.setItem("ls_num_cap",num_cap);
+                console.log(localStorage.getItem("ls_num_cap"))
             }
 
             UpdateNumber();

@@ -4,6 +4,7 @@
     box-sizing: border-box;
     background-color: #ffffee;
     color: #222;
+    scroll-behavior: smooth;
 }
 
 body{

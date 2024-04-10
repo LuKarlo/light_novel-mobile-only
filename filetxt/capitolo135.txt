@@ -1,0 +1,474 @@
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ This chapter is updated by wuxiaworld.eu
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ In addition to the representatives of each dojo, a total of 16 people will compete for victory, including external contestants who participate on the recommendation of Jamdi’el and others.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ A lottery will be drawn to decide the matchups of the tournament.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ However, unlike the time of the previous game, the lottery is not drawn in front of a large crowd, but it seems that the lottery is first drawn in a place like a waiting room and then announced to the gathering spectators afterwards.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Right, Machio Proteen. No.16. It will be the eighth match in the first round.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ As the contestants continued to draw lots and their names were being recorded on the blank tournament table, I remembered the time of the previous match.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ At that time, in order to fight Rival, I flipped the lottery over and picked a number, and I pulled the number 1.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But this time…
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Next Earth Lagan”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Osu. Hmm… Whoa… number one.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Got it, Earth Lagann, No.1. You will be facing José Drag in the first round, match one.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “…… haha.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ This time I drew it myself. The same number.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And the opponent was that dude.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ 『Were you aiming for that?』
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “If possible… I hoped.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ 『Fufufufu, you drew it yourself. Well, tis both luck and skill.』
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Tre’ainar was also grinning. He seemed to be in a good mood.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Humph!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And the moment he realized he was going to face me in the first round, my opponent had a clearly unpleasant look on his face.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Heh.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But I’m happy with this.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Because if he faced Mr. Machio in the first round, I wouldn’t be able to hit him with my own hands.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I don’t want to let my guard down.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But I have a general idea of what he’s capable of.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ That’s why I don’t want to bully the weak.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It’s just that I won’t feel better if I don’t give him a single shot.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Well, then the table is decided! These are the matchups.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Then, all the participants finished drawing the lottery, and the completed match table was posted on the wall.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Arcane True Zenith Style Fighting Tournament / Matchup Table”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 1
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Earth Lagann (External)
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ José Drag (External)
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 2
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Jawara Theoi
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Gran Chario Nanhoshi (External)
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 3
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Krouby Seiken
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Juju Brasilia
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 4
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Wacha Huacha
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Khaldash Zuvary
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 5
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Denchok Jahr
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Shota’o Honeycomb
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 6
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Samyng Penalté
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Seissé Doude
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 7
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Lyron Data
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Vigg Mhara
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ●Match 8
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Kab Cavady (External)
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Machio Proteen
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ I guess I’ll be facing Mr. Machio in the finals.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ In a way, it’s an ideal combination. I’m not sure about the others.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Now, in the order of this matchup, the host will call everyone out for introductions, so we will ask all of them to appear in the arena once. After that, the first two fighters of the opening round will remain in the arena and have their match.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Osu.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Hah!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Just so you know, the rules are anything but killing and grievous injury to the opponent! That’s all for the explanation! Good luck!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It was a fairly simple explanation of the rules. I felt like there were a few in the previous match, but anyway, this one seemed more a pure struggle.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Fufu, you and I ended up on completely opposite mountains.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Yeah. See you in the finals, as promised!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “…… Hou…”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ When the tournament officials finished the explanation, Mr. Machio came over and spoke to me.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Indeed, we’re on exact opposites. But I was fine with that.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And finally……
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Well, ladies and gentlemen! Thank you for joining us and welcome to the Arcane True Zenith Style Fighting Tournament!!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ At last, the host of the event started things off outside.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [And now, I would like to launch this competition between 16 men who will determine the pinnacle of martial arts in this country! Please watch to the end!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “”””””UUUOOOOOOOOOOOOOOOOOHHH!!!!””””
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It’s quite exciting. It’s not as big as the Imperial Capital, but the passion isn’t lost.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It felt like the ground was shaking a little bit.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Now, I will introduce the men who will compete in order of the matchups! Men among men, come on down!!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “”””””UUUOOOOOOOOOOOOOOOOOHHH!!!!””””
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Well, let’s start with this guy!!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The flaring enthusiasm hit my skin. There’s no way you won’t get fired up with this.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ With a waning expression, the dude, who’s about to be sent flying by me, had a look that seemed to say “Dear Me” on his face. To start with, aren’t you a man??
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Whoa, there’s Earth! Fight on!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Big brother, let’s go! Show us the results of that ‘Special Training’ with me!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Go for it, go for it, go!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Best of luck …”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Go, Earth!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Ora, for the win!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Hang in there!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Fight, Earth!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And the moment I stepped into the arena, there was a huge roar of excitement from a part of the audience.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Seemed everyone came to see and cheer for me.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Hmm?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Ahaha, this is a bit awkward, isn’t it?”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “No, it’s fine, Big Sister. The High Priestess also said that this is the proper attire for cheering, right?”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Fight on! Fight on!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “I, I’m a little embarrassed, but…”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ That’s?! Similar to the outfit that Sadiz wore when she was cheering for me at the Commemorative Match!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Waving ball-shaped tassel-like tools or “pompons” in each hand, the sisters, plus Sadiz, were in blue sleeveless tops and short skirts.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Oh, even Amae.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Fufufu, it’s Earth.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Lady Kron, do not you wave your hand, okay?”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “I know~ Not just Earth, but today we watch everyone with an impartial eye!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Splendid.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ At the top of the audience seats, Kron sat in a big throne-like chair with Jamdi’el by her side.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ For a moment, she seemed about to wave her hand at me with a smile, but perhaps she was cautioned by Jamdi’el, she immediately withdrew her hand.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Will the sudden appearance of this comet be a bad omen or hope for the future? All the numbers he produced at the dojo are top class in the rankings! An unknown powerhouse who even sparred with that strongest Machio! Now is the time to show us what you’re really made of! The ‘Supernova’, Earth Lagann!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And with a loud cheer, my… Introduction or whatever!? Who would have thought!?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ However, the audience seemed very excited anyway, so I stepped out.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And all the people of the packed venue, who saw me, cheered with joy.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It felt good.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ But such introductions, are you going to do it for all of us?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [The rumored genius is finally unveiled. The story of this man, who has broken every record in the Wizarding School and created new magic that even teachers don’t know, has only just begun! Burn the new legend into your eyes! ‘The Great Sage of Heaven’, José Drag!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [The era where the Strong stand at the pinnacle of power is over! To the powerless, he brings a call to arms! To overthrow the power, ‘Soldier of Devastation’ Jawara Theoi!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [A man who was once a national hero! The old regime was defeated and the revolution complete. But he is not yet defeated! He may have lost his Lord, he hasn’t lost his fangs! ‘The Exiled Rebel Swordsman’, Gran Chario Nanhoshi,!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [The fist in your hand is power, skill, and path! A man who continued to pursue only one technique without turning a blind eye to the various genres of the Arcane True Zenith! That fist will finally be unleashed! The ‘Fist of Destruction’, Krouby Seiken!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [If you’re the best at everything, then why even try? There’s no point in having a tournament. He boldly proclaimed! Whether throws, grapples, punches or kicks, he is the devil’s strongest! ‘The Jack of All Fighting Trades’, Juju Brasilia!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Let’s teach you the weight of history! The oldest man of Arcane True Zenith dojo steps forward! He mastered his skills 10 years ago! Usually, an ally to housewives with his guidance on the Magical Tai Chi healing methods. But today, he’s your adversary! The ‘Veteran Warrior’, Wacha Huacha!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Skill? Muscle? All you need is a gargantuan body! And the size of the body is natural talent! Skinny warriors who were not chosen by God, he’ll show you reality now! The ‘Super Heavy Freak’, Khaldash Zuvary!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [Whoaaaaah, this man is allowed to participate? When did he get out?? The disgrace of the Arcane True Zenith dojo that was locked up in prison for a certain crime! However, his skill is the real deal! What’s on your mind, High Priestess? The ‘Cavern Seeker’, Danchok Jahr!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [The moment this man joined the branch that was on the verge of collapse because there were too few students, a flood of beginners also applied! What’s interesting is that most of the students are women! Every day that a teacher is loved by his students, he’s working properly! I envy you, you son of a bitch! ‘The Little Giant’ Shota’o Honeycomb.]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [He desires victory more than anyone! Due to that obsession, no one wants to spar with this man. But he doesn’t mind. He doesn’t need a sparring partner. All he needs is victory! ‘The Victory Glutton’, Samyng Penalté!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [People have rules to live by. Protecting those rules is justice. He continues to preach the importance of justice to children who have never known civil war, and today the man stands to prove the power of justice! The ‘Champion of Justice’, Seissé Doude!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [From now on, using your brain is the power of the new age. And he already knows. That he’s going to win. That’s not a speculation, it’s a prophecy. Now, let’s see if it’ll come true! The ‘Absolute Prophet’, Lyron Data!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [This man is hell-bent on defeating Machio! Since he once encountered Machio in the bathroom, the man has been in the mountains for a long time, and now he’s come home to find the time is right! The man says! ‘Machio, I’ll show you the greatest man’! The ‘Symbolic Mountain’, Vigg Mhara!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [He finally appeared! Not a member of the old regime, not a revolutionary, not a disciple of the Arcane True Zenith Style, but a man who single-handedly developed an original martial art! Until now, no one had seen the man. But today no one can take their eyes off him! Let us witness a new Martial Art that no one has ever seen before! The ‘New Martial Arts Founder’, Kab Cavady!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ ～
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [And now, at last, this man! Overflowing with chivalrous spirit, power, and indomitable will! The number one man other men want to embrace. He is so popular even children’s dream rankings say that they want to be like Mr. Machio. He is truly a man among men! The “Superhuman” Machio Proteen!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Somehow, he just kept that tension going until the end. Wow, that host is amazing.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [And there you have it! These 16 men will battle for the title of strongest! And you all. will burn that sight into your memoriiiiiiiiiieeeesss!!!!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “”””””UUUOOOOOOOOOOOOOOOOOHHH!!!!””””
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ [And now for the opening match! Both are external contestants! However, their talents are at the top of the next generation! It is ‘Supernova Earth’ vs. ‘The Great Sage of Heaven, José’!!]
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Well, anyway. It’s high time.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Kyaah, isn’t it José all of a sudden?”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “And I didn’t expect that person in the first round.”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Easy victory then!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “José, you’re the winner!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ “Senior! Please remind the frog in the well who feels proud of uniting all those dropouts!”
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ The other side, too, has a way of disgusting me to the very end.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Soon, I can barely wait for the gong.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Author’s Note
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Introducing all the contestants, something that could not be done in the previous match. I wanted to try it once.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And thank you for your new spirits, drills and impacts!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ It is twisted and it burns to the best at any time!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Moreover, I will take three consecutive holidays tomorrow!
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ And speaking of burning, everyone. Do you know what day it is today?
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Yes, it’s the opening round of the Rugby World Cup.
+</div>
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+ Ladies and gentlemen, let’s read my novels early and support the Japanese national team today!
+</div>
+
+<div class="mantine-Text-root mantine-1ekvxsp" id="chapterText">
+</div>
